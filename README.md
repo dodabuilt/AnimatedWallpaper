@@ -41,19 +41,30 @@
 
 ## 📦 Installation
 
-### Download
+### Homebrew (Recommended)
+
+```bash
+brew tap dodabuilt/tap
+brew install --cask animated-wallpaper
+```
+
+To update:
+```bash
+brew upgrade --cask animated-wallpaper
+```
+
+To uninstall:
+```bash
+brew uninstall --cask animated-wallpaper
+```
+
+### Manual Download
 
 Download the latest installer from the [Releases](../../releases) page:
 
 1. Download `AnimatedWallpaper-Installer.pkg`
 2. Double-click to run the installer
 3. Follow the installation wizard
-
-### Homebrew (Coming Soon)
-
-```bash
-brew install --cask animated-wallpaper
-```
 
 ## 🚀 Usage
 
